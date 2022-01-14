@@ -1,5 +1,13 @@
-# bytads
-## Bypass YouTube ads!
+<h1 align="center" style="font-size:36px;font-weight:bold;">
+        bytads
+</h1>
+<p align="center">
+    <img src="icons/256.png">
+</p>
+<h2 align="center">
+    <strong>Bypass YouTube ads!</strong>
+</h2>
+
 
 ## Supported YouTube Advertising Formats
 * Skippable video ads,
