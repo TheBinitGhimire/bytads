@@ -25,7 +25,7 @@ Before getting into the usage instructions for your respective web browser, firs
 * Now, select the **`manifest.json`** file.
 
 ### Google Chrome or other Chromium-based browsers:
-* Visit **`chrome://extensions/`** in your browser,
+* Visit **`chrome://extensions/`** in your browser, and make sure that the **Developer mode** is enabled,
 * Click on **Load unpacked**, and then navigate to the folder where you have stored **bytads**,
 * Now, select this folder.
 
